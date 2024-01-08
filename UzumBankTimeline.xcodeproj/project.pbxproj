@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		825525A62B49821300AD3570 /* CardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825525A52B49821300AD3570 /* CardCell.swift */; };
+		825525A82B498D6F00AD3570 /* MyHomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825525A72B498D6F00AD3570 /* MyHomeCell.swift */; };
 		8259A2E52B3ED41900D86373 /* UzumBankTimelineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2E42B3ED41900D86373 /* UzumBankTimelineApp.swift */; };
 		8259A2E72B3ED41900D86373 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2E62B3ED41900D86373 /* ContentView.swift */; };
 		8259A2E92B3ED41B00D86373 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8259A2E82B3ED41B00D86373 /* Assets.xcassets */; };
 		8259A2EC2B3ED41B00D86373 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8259A2EB2B3ED41B00D86373 /* Preview Assets.xcassets */; };
+		8259A2F62B3ED82100D86373 /* OtkazmaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2F52B3ED82100D86373 /* OtkazmaView.swift */; };
+		8259A2F82B3ED82F00D86373 /* TolovView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2F72B3ED82F00D86373 /* TolovView.swift */; };
+		8259A2FA2B3ED84700D86373 /* XizmatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2F92B3ED84700D86373 /* XizmatView.swift */; };
+		8259A2FC2B3ED85800D86373 /* MenyuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2FB2B3ED85800D86373 /* MenyuView.swift */; };
+		8259A2FE2B3EDD7C00D86373 /* HeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8259A2FD2B3EDD7C00D86373 /* HeaderCell.swift */; };
+		82A009512B4AF267007B6135 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A009502B4AF267007B6135 /* MenuCell.swift */; };
+		82A2ADF22B492A9D00273E15 /* KeshCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2ADF12B492A9D00273E15 /* KeshCell.swift */; };
+		82A2ADF42B4934C800273E15 /* FoydaCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2ADF32B4934C800273E15 /* FoydaCell.swift */; };
+		82A2ADF62B493DE400273E15 /* KirishCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2ADF52B493DE400273E15 /* KirishCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		825525A52B49821300AD3570 /* CardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCell.swift; sourceTree = "<group>"; };
+		825525A72B498D6F00AD3570 /* MyHomeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyHomeCell.swift; sourceTree = "<group>"; };
 		8259A2E12B3ED41900D86373 /* UzumBankTimeline.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UzumBankTimeline.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8259A2E42B3ED41900D86373 /* UzumBankTimelineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UzumBankTimelineApp.swift; sourceTree = "<group>"; };
 		8259A2E62B3ED41900D86373 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8259A2E82B3ED41B00D86373 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8259A2EB2B3ED41B00D86373 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8259A2F52B3ED82100D86373 /* OtkazmaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtkazmaView.swift; sourceTree = "<group>"; };
+		8259A2F72B3ED82F00D86373 /* TolovView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TolovView.swift; sourceTree = "<group>"; };
+		8259A2F92B3ED84700D86373 /* XizmatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XizmatView.swift; sourceTree = "<group>"; };
+		8259A2FB2B3ED85800D86373 /* MenyuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenyuView.swift; sourceTree = "<group>"; };
+		8259A2FD2B3EDD7C00D86373 /* HeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderCell.swift; sourceTree = "<group>"; };
+		82A009502B4AF267007B6135 /* MenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
+		82A2ADF12B492A9D00273E15 /* KeshCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeshCell.swift; sourceTree = "<group>"; };
+		82A2ADF32B4934C800273E15 /* FoydaCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoydaCell.swift; sourceTree = "<group>"; };
+		82A2ADF52B493DE400273E15 /* KirishCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KirishCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +73,9 @@
 		8259A2E32B3ED41900D86373 /* UzumBankTimeline */ = {
 			isa = PBXGroup;
 			children = (
-				8259A2E42B3ED41900D86373 /* UzumBankTimelineApp.swift */,
-				8259A2E62B3ED41900D86373 /* ContentView.swift */,
-				8259A2E82B3ED41B00D86373 /* Assets.xcassets */,
+				8259A2F22B3ED44700D86373 /* Views */,
+				8259A2F32B3ED45000D86373 /* Cells */,
+				8259A2F42B3ED45D00D86373 /* AppUtills */,
 				8259A2EA2B3ED41B00D86373 /* Preview Content */,
 			);
 			path = UzumBankTimeline;
@@ -65,6 +87,41 @@
 				8259A2EB2B3ED41B00D86373 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8259A2F22B3ED44700D86373 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8259A2E62B3ED41900D86373 /* ContentView.swift */,
+				8259A2F52B3ED82100D86373 /* OtkazmaView.swift */,
+				8259A2F72B3ED82F00D86373 /* TolovView.swift */,
+				8259A2F92B3ED84700D86373 /* XizmatView.swift */,
+				8259A2FB2B3ED85800D86373 /* MenyuView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8259A2F32B3ED45000D86373 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				8259A2FD2B3EDD7C00D86373 /* HeaderCell.swift */,
+				82A2ADF12B492A9D00273E15 /* KeshCell.swift */,
+				82A2ADF32B4934C800273E15 /* FoydaCell.swift */,
+				82A2ADF52B493DE400273E15 /* KirishCell.swift */,
+				825525A52B49821300AD3570 /* CardCell.swift */,
+				825525A72B498D6F00AD3570 /* MyHomeCell.swift */,
+				82A009502B4AF267007B6135 /* MenuCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		8259A2F42B3ED45D00D86373 /* AppUtills */ = {
+			isa = PBXGroup;
+			children = (
+				8259A2E82B3ED41B00D86373 /* Assets.xcassets */,
+				8259A2E42B3ED41900D86373 /* UzumBankTimelineApp.swift */,
+			);
+			path = AppUtills;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +195,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				8259A2E72B3ED41900D86373 /* ContentView.swift in Sources */,
+				8259A2FC2B3ED85800D86373 /* MenyuView.swift in Sources */,
+				8259A2FA2B3ED84700D86373 /* XizmatView.swift in Sources */,
+				82A2ADF62B493DE400273E15 /* KirishCell.swift in Sources */,
+				8259A2F82B3ED82F00D86373 /* TolovView.swift in Sources */,
+				82A2ADF22B492A9D00273E15 /* KeshCell.swift in Sources */,
+				8259A2F62B3ED82100D86373 /* OtkazmaView.swift in Sources */,
+				825525A62B49821300AD3570 /* CardCell.swift in Sources */,
+				82A2ADF42B4934C800273E15 /* FoydaCell.swift in Sources */,
 				8259A2E52B3ED41900D86373 /* UzumBankTimelineApp.swift in Sources */,
+				825525A82B498D6F00AD3570 /* MyHomeCell.swift in Sources */,
+				82A009512B4AF267007B6135 /* MenuCell.swift in Sources */,
+				8259A2FE2B3EDD7C00D86373 /* HeaderCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
